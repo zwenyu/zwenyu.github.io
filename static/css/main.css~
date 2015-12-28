@@ -99,7 +99,7 @@ body {
   color: #7F00FF;
 }
 .container a:hover {
-  color: #4B0082;
+  color: #267723;
 }
 .img-responsive {
  display: block;
@@ -123,7 +123,7 @@ body {
   color: #7F00FF;
 }
 .panel-default h4 a:hover, h5 a:hover {
-  color: #4B0082;
+  color: #267723;
 }
 .panel{
   border-style: none;
