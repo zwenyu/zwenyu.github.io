@@ -22,31 +22,32 @@
 		<h5>
 			<i class="fa fa-cog"></i>&nbsp;&nbsp;<strong>Multimodal Deep Learning</strong>
  <ul style="list-style-type:none">
-  <li>Institute of Infocomm Research, S&S Program, 2013-2014</li>
+  <li>Institute of Infocomm Research, S&S Program, 2013 - 2014</li>
   <li>Used Deep Neural Network models to extract features from multimodal data.</li>
   <li>Contributed to industrial projects in data analysis and experimental design.</li>
 </ul>
 		</h5>
 		<h5>
-			<i class="fa fa-cog"></i>&nbsp;&nbsp;<strong>Product Pricing</strong>
- <ul style="list-style-type:none">
-  <li>UC Berkeley Department of Statistics, 2013</li>
-  <li>Built models for predicting the price of an iPhone 5.</li>
-  <li>Models were specific and accurate to condition, time of day, and format of sale.</li>
-</ul>
-		</h5>
-		<h5>
 			<i class="fa fa-cog"></i>&nbsp;&nbsp;<strong>Ecological Metrics</strong>
  <ul style="list-style-type:none">
-  <li>UC Berkeley Energy and Resources Group, 2012-2013</li>
+  <li>UC Berkeley Energy and Resources Group, 2012 - 2013</li>
   <li>Used maximum entropy inference procedures to derive metrics for ecological theory.</li>
   <li>Tested results on macroecological datasets.</li>
 </ul>
 		</h5>
 		<h5>
+			<i class="fa fa-cog"></i>&nbsp;&nbsp;<strong>Data Analysis</strong>
+ <ul style="list-style-type:none">
+  <li>UC Berkeley Department of Statistics, 2011-2013</li>
+  <li><a href="Predicting Crimes in Berkeley.pdf">STAT 154 project</a>: Predicting crimes most likely to happen at a particular place, day, time and weather condition at Berkeley.</li>
+  <li><a href="Predicting Crimes in Berkeley.pd">Self-proposed project, 2013: Analyzing trends of iPhone 5 sale prices on eBay.</li>
+  <li>STAT 133 project, 2011: Studying relationships that income, population and number of universities have with the 2008 US presidential election.</li>
+</ul>
+		</h5>
+		<h5>
 			<i class="fa fa-cog"></i>&nbsp;&nbsp;<strong>Genetic Systems</strong>
  <ul style="list-style-type:none">
-  <li>UC Berkeley Department of Mathematics, 2011-2012</li>
+  <li>UC Berkeley Department of Mathematics, 2011 - 2012</li>
   <li>Researched the induction of CML from DNA double strand breaks and BCR-ABL gene rearrangements.</li>
   <li>Performed Monte Carlo simulations, analyzed data using the “Hi-C” method.</li>
   <li>Studied the stochastic geometry of chromosomes.</li>
